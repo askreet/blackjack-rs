@@ -1,0 +1,7 @@
+[package]
+name = "blackjack-rs"
+version = "0.1.0"
+authors = ["kyle"]
+
+[dependencies]
+rand = "0.5.0"
